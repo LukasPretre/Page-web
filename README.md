@@ -1,2 +1,2 @@
 # Page-web
-Première page web personnel afin d'apprendre a manier Html et CSS.
+Première page web personnelle afin d'apprendre à manier HTML et CSS.
